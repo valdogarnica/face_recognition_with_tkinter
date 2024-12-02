@@ -6,7 +6,8 @@
 # DEJA TU ESTRELLA 
 
 # INSTALACION
-
+0. SE DEBEN DE TENER LAS LIBRERIAS DE face_recognition que funciona con dlib >>>> literar dlib es otra libreria mas dificl de instalar, 
+pero aqui se las dejo >> https://drive.google.com/drive/folders/1rnGEXetR-8zFMb1RPFMedNGllZ-bCQ20?usp=sharing 
 1. Se debe crear la conexion con la base de datos( para evitar errores) esto se usa asi para el desarrollo futuro de un software mas complejo
 
 2. ejecutar el archivo
